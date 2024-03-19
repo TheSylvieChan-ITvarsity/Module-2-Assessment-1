@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id = "com.thesylviechan.zoo"
+    versioncode = "10"
+    version = "1.0.0">
+    <name>Pine City Zoo</name>
+    <description>
+        An app created during module 2 of the ITvarsity Apptrepreneur course.
+    </description>  
+    <author href="http://thesylviechan.com/" email="thesylviechan@pm.me">
+        TheSylvieChan
+    </author>
+
+</widget>
