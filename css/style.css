@@ -80,6 +80,11 @@ body {
     background-size: cover;
 }
 
+#content {
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
 a.info-box {
     text-decoration:none;
     background: rgba(255, 255, 255, .8);
